@@ -1,0 +1,396 @@
+PCBNEW-LibModule-V1  
+# encoding utf-8
+Units mm
+$INDEX
+MODULE_RASPBERRY_PI_3_MODEL_B+
+$EndINDEX
+$MODULE MODULE_RASPBERRY_PI_3_MODEL_B+
+Po 0 0 0 15 00000000 00000000 ~~
+Li MODULE_RASPBERRY_PI_3_MODEL_B+
+Cd 
+Sc 00000000
+At STD
+Op 0 0 0
+.SolderMask 0
+.SolderPaste 0
+T0 -37.96 -29.635 1 1 0 0.05 N V 21 "MODULE_RASPBERRY_PI_3_MODEL_B+"
+T1 -37.525 29.965 1 1 0 0.05 N V 21 "VAL**"
+DS -42.5 -25 -42.5 25 0.127 21
+DA -39.5 25 -39.5 28 900 0.127 21
+DS -39.5 28 39.5 28 0.127 21
+DA 39.5 25 42.5 25 900 0.127 21
+DS 42.5 25 42.5 -25 0.127 21
+DA 39.5 -25 39.5 -28 900 0.127 21
+DS 39.5 -28 -39.5 -28 0.127 21
+DA -39.5 -25 -42.5 -25 900 0.127 21
+DS 23.5 25.5 45 25.5 0.127 27
+DS 45 25.5 45 -25.5 0.127 27
+DS 45 -25.5 23.5 -25.5 0.127 27
+DS 23.5 -25.5 23.5 25.5 0.127 27
+DS -42.75 30.75 -42.75 -28.25 0.05 26
+DS -42.75 -28.25 45.25 -28.25 0.05 26
+DS 45.25 -28.25 45.25 30.75 0.05 26
+DS 45.25 30.75 -42.75 30.75 0.05 26
+DC -43.4 -23 -43.3 -23 0.2 21
+DC -43.4 -23 -43.3 -23 0.2 27
+DS -42.5 -25 -42.5 25 0.127 27
+DA -39.5 25 -39.5 28 900 0.127 27
+DS -39.5 28 39.5 28 0.127 27
+DA 39.5 25 42.5 25 900 0.127 27
+DS 42.5 25 42.5 -25 0.127 27
+DA 39.5 -25 39.5 -28 900 0.127 27
+DS 39.5 -28 -39.5 -28 0.127 27
+DA -39.5 -25 -42.5 -25 900 0.127 27
+$PAD
+Sh "S4" C 6.2 6.2 0 0 0
+Dr 2.75 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -39 24.5
+$EndPAD
+$PAD
+Sh "S3" C 6.2 6.2 0 0 0
+Dr 2.75 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 19 24.5
+$EndPAD
+$PAD
+Sh "S2" C 6.2 6.2 0 0 0
+Dr 2.75 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 19 -24.5
+$EndPAD
+$PAD
+Sh "S1" C 6.2 6.2 0 0 0
+Dr 2.75 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -39 -24.5
+$EndPAD
+$PAD
+Sh "1" R 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -34.13 -23.23
+$EndPAD
+$PAD
+Sh "3" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -31.59 -23.23
+$EndPAD
+$PAD
+Sh "5" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -29.05 -23.23
+$EndPAD
+$PAD
+Sh "7" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -26.51 -23.23
+$EndPAD
+$PAD
+Sh "9" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -23.97 -23.23
+$EndPAD
+$PAD
+Sh "11" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -21.43 -23.23
+$EndPAD
+$PAD
+Sh "2" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -34.13 -25.77
+$EndPAD
+$PAD
+Sh "4" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -31.59 -25.77
+$EndPAD
+$PAD
+Sh "6" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -29.05 -25.77
+$EndPAD
+$PAD
+Sh "8" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -26.51 -25.77
+$EndPAD
+$PAD
+Sh "10" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -23.97 -25.77
+$EndPAD
+$PAD
+Sh "12" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -21.43 -25.77
+$EndPAD
+$PAD
+Sh "13" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -18.89 -23.23
+$EndPAD
+$PAD
+Sh "14" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -18.89 -25.77
+$EndPAD
+$PAD
+Sh "15" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -16.35 -23.23
+$EndPAD
+$PAD
+Sh "17" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -13.81 -23.23
+$EndPAD
+$PAD
+Sh "19" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -11.27 -23.23
+$EndPAD
+$PAD
+Sh "21" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -8.73 -23.23
+$EndPAD
+$PAD
+Sh "23" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -6.19 -23.23
+$EndPAD
+$PAD
+Sh "25" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -3.65 -23.23
+$EndPAD
+$PAD
+Sh "16" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -16.35 -25.77
+$EndPAD
+$PAD
+Sh "18" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -13.81 -25.77
+$EndPAD
+$PAD
+Sh "20" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -11.27 -25.77
+$EndPAD
+$PAD
+Sh "22" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -8.73 -25.77
+$EndPAD
+$PAD
+Sh "24" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -6.19 -25.77
+$EndPAD
+$PAD
+Sh "26" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -3.65 -25.77
+$EndPAD
+$PAD
+Sh "27" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -1.11 -23.23
+$EndPAD
+$PAD
+Sh "28" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -1.11 -25.77
+$EndPAD
+$PAD
+Sh "29" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 1.43 -23.23
+$EndPAD
+$PAD
+Sh "31" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 3.97 -23.23
+$EndPAD
+$PAD
+Sh "33" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 6.51 -23.23
+$EndPAD
+$PAD
+Sh "35" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 9.05 -23.23
+$EndPAD
+$PAD
+Sh "37" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 11.59 -23.23
+$EndPAD
+$PAD
+Sh "39" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 14.13 -23.23
+$EndPAD
+$PAD
+Sh "30" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 1.43 -25.77
+$EndPAD
+$PAD
+Sh "32" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 3.97 -25.77
+$EndPAD
+$PAD
+Sh "34" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 6.51 -25.77
+$EndPAD
+$PAD
+Sh "36" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 9.05 -25.77
+$EndPAD
+$PAD
+Sh "38" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 11.59 -25.77
+$EndPAD
+$PAD
+Sh "40" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 14.13 -25.77
+$EndPAD
+$EndMODULE MODULE_RASPBERRY_PI_3_MODEL_B+
